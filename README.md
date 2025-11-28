@@ -6,7 +6,7 @@
 
 **Earth Tuner** adalah eksperimen web interaktif yang memungkinkan Anda menjelajahi dan mendengarkan stasiun radio langsung dari seluruh dunia melalui visualisasi Globe 3D yang imersif.
 
-🔗 **Live Demo:** [Klik di sini untuk mencoba](https://earth-tuner.vercel.app/) *(Ganti link ini setelah deploy)*
+🔗 **Live Demo:** [Klik di sini untuk mencoba](https://earth-tuner.vercel.app/) atau [Klik di sini untuk mencoba](https://earthtuner.netlify.app/)
 
 ---
 
